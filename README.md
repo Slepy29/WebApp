@@ -1,0 +1,2 @@
+# WebApp
+Java cryptocurrency webapp
